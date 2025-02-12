@@ -1,5 +1,4 @@
 
-
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
 # Lab report \#1
@@ -18,18 +17,18 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-**Step 12.1**
+<span style="font-size: 24px;">**Step 12.1**</span>
 
 - Student 1’s note:
 
-- Student 2’s note: This is a line from RStudio
+- Student 2’s note:
 
 - Eitan’s note: I have a github account and was able to connect to
   github.
 
 - Student 4’s note:
 
-**Step 12.2**
+<span style="font-size: 24px;">**Step 12.2**</span>
 
 - Student 1’s note:
 
@@ -39,7 +38,7 @@ you are done with your submission.
 
 - Student 4’s note:
 
-**Step 12.3**
+<span style="font-size: 24px;">**Step 12.3**</span>
 
 - Student 1’s note:
 
@@ -50,7 +49,7 @@ you are done with your submission.
 
 - Student 4’s note:
 
-**Step 12.4**
+<span style="font-size: 24px;">**Step 12.4**</span>
 
 - Student 1’s note:
 
@@ -62,7 +61,7 @@ you are done with your submission.
 
 - Student 4’s note:
 
-**Step 12.5**
+<span style="font-size: 24px;">**Step 12.5**</span>
 
 - Student 1’s note:
 
@@ -73,7 +72,7 @@ you are done with your submission.
 
 - Student 4’s note:
 
-**Step 12.6**
+<span style="font-size: 24px;">**Step 12.6**</span>
 
 - Student 1’s note:
 
@@ -84,7 +83,7 @@ you are done with your submission.
 
 - Student 4’s note:
 
-**Step 12.7**
+<span style="font-size: 24px;">**Step 12.7**</span>
 
 - Student 1’s note:
 
