@@ -19,7 +19,7 @@ you are done with your submission.
 
 <span style="font-size: 24px;">**Step 12.1**</span>
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
@@ -30,7 +30,7 @@ you are done with your submission.
 
 <span style="font-size: 24px;">**Step 12.2**</span>
 
-- Student 1’s note:
+- Devon’s note: No notable errors
 
 - Student 2’s note:
 
@@ -40,7 +40,7 @@ you are done with your submission.
 
 <span style="font-size: 24px;">**Step 12.3**</span>
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
@@ -51,7 +51,7 @@ you are done with your submission.
 
 <span style="font-size: 24px;">**Step 12.4**</span>
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
@@ -63,7 +63,8 @@ you are done with your submission.
 
 <span style="font-size: 24px;">**Step 12.5**</span>
 
-- Student 1’s note:
+- Devon’s note: I had issues since I was signed in to my personal git
+  account. I fixed this by signing in to my school one on git Desktop.
 
 - Student 2’s note:
 
@@ -74,7 +75,7 @@ you are done with your submission.
 
 <span style="font-size: 24px;">**Step 12.6**</span>
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
@@ -85,7 +86,7 @@ you are done with your submission.
 
 <span style="font-size: 24px;">**Step 12.7**</span>
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
