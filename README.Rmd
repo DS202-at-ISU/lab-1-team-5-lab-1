@@ -22,7 +22,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 * Student 1's note:
 
-* Student 2's note:
+* Lucas's note: 
+  The process was straightforward due to previous familiarity with Git.
 
 * Student 3's note:
 
@@ -32,7 +33,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 * Student 1's note:
 
-* Student 2's note:
+* Lucas's note: 
+  Skipped the creation step since the repository was already set up on GitHub.
 
 * Student 3's note:
 
@@ -42,7 +44,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 * Student 1's note:
 
-* Student 2's note:
+* Lucas's note:
+  I used RStudio to clone the existing GitHub repository using the HTTPS URL. In RStudio, I navigated to **File > New Project > Version Control > Git**, pasted the repository URL, and ensured the project directory name matched the repo name.
 
 * Student 3's note:
 
@@ -52,7 +55,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 * Student 1's note:
 
-* Student 2's note:
+* Lucas's note: 
+  Everything worked. The only thing I had to do first was **pull** the latest changes before pushing. After that, I modified the **README.md** file by adding a new line, saved the changes, and committed them using RStudio’s Git. I navigated to the **Git** tab, staged the **README.md** file, entered a commit message (“12.3”), and clicked **Commit**. The changes were successfully committed.
 
 * Student 3's note:
 
@@ -62,7 +66,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 * Student 1's note:
 
-* Student 2's note:
+* Lucas's note: 
+  Pushing the changes to GitHub worked without any issues. After committing, I simply clicked the **“Push”** button in RStudio’s, and the updates were successfully sent to the remote repository.
 
 * Student 3's note:
 
@@ -72,7 +77,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 * Student 1's note:
 
-* Student 2's note:
+* Lucas's note: 
+  The updated README.md file displayed the new line I added from RStudio.
 
 * Student 3's note:
 
@@ -82,7 +88,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 * Student 1's note:
 
-* Student 2's note:
+* Lucas's note:
+  "don't do the last step. DO NOT delete the repo!"
 
 * Student 3's note:
 
