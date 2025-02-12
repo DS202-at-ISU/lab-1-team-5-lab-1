@@ -67,7 +67,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 * Eitan's note: I did git push to push those changes to the remote server. No credential challenge was experienced.
 
-* Student 4's note:
+* Sofi's note: No issues pushing
 
 **Step 12.6**
 
