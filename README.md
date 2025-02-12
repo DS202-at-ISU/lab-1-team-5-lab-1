@@ -63,7 +63,8 @@ you are done with your submission.
 
 <span style="font-size: 24px;">**Step 12.5**</span>
 
-- Devon’s note: No notable errors.
+- Devon’s note: I had issues since I was signed in to my personal git
+  account. I fixed this by signing in to my school one on git Desktop.
 
 - Student 2’s note:
 
