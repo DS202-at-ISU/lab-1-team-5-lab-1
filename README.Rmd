@@ -18,72 +18,73 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-**Step 12.1**
+<span style="font-size: 24px;">**Step 12.1**</span>
 
 * Devon's note: No notable errors.
 
 * Student 2's note:
 
-* Student 3's note:
+* Eitan's note: I have a github account and was able to connect to github.
 
 * Student 4's note:
 
-**Step 12.2**
+<span style="font-size: 24px;">**Step 12.2**</span>
 
 * Devon's note: No notable errors
 
 * Student 2's note:
 
-* Student 3's note:
+* Eitan's note: I was able to create the repo on github without issue.
 
 * Student 4's note:
 
-**Step 12.3**
+<span style="font-size: 24px;">**Step 12.3**</span>
 
 * Devon's note: No notable errors.
 
 * Student 2's note:
 
-* Student 3's note:
+* Eitan's note: I cloned the team repository onto my local machine inside a DS_202 folder.
 
 * Student 4's note:
 
-**Step 12.4**
+<span style="font-size: 24px;">**Step 12.4**</span>
 
 * Devon's note: No notable errors.
 
 * Student 2's note:
 
-* Student 3's note:
+* Eitan's note: I made local changes to this file and then I did git add . to stage those changes to be committed. 
+    Then I did git commit -a to commit all staged changes.
 
 * Student 4's note:
 
-**Step 12.5**
+<span style="font-size: 24px;">**Step 12.5**</span>
 
 * Devon's note: No notable errors.
 
 * Student 2's note:
 
-* Student 3's note:
+* Eitan's note: I did git push to push those changes to the remote server. No credential challenge was experienced.
 
 * Student 4's note:
 
-**Step 12.6**
+<span style="font-size: 24px;">**Step 12.6**</span>
 
 * Devon's note: No notable errors.
 
 * Student 2's note:
 
-* Student 3's note:
+* Eitan's note: I went to my browser and checked github and saw that the changes were propagated to the repository.
 
 * Student 4's note:
 
-**Step 12.7**
+<span style="font-size: 24px;">**Step 12.7**</span>
 
 * Devon's note: No notable errors.
 
 * Student 2's note:
 
-* Student 3's note:
+* Eitan's note: Cleaning up the repo on my local machine was no issue.
 
 * Student 4's note:
