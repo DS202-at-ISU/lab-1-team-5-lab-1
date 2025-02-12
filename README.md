@@ -23,7 +23,8 @@ you are done with your submission.
 
 - Student 2’s note:
 
-- Student 3’s note:
+- Eitan’s note: I have a github account and was able to connect to
+  github.
 
 - Student 4’s note:
 
@@ -33,7 +34,7 @@ you are done with your submission.
 
 - Student 2’s note:
 
-- Student 3’s note:
+- Eitan’s note: I was able to create the repo on github without issue.
 
 - Student 4’s note:
 
@@ -43,7 +44,8 @@ you are done with your submission.
 
 - Student 2’s note:
 
-- Student 3’s note:
+- Eitan’s note: I cloned the team repository onto my local machine
+  inside a DS_202 folder.
 
 - Student 4’s note:
 
@@ -53,7 +55,9 @@ you are done with your submission.
 
 - Student 2’s note:
 
-- Student 3’s note:
+- Eitan’s note: I made local changes to this file and then I did git add
+  . to stage those changes to be committed. Then I did git commit -a to
+  commit all staged changes.
 
 - Student 4’s note:
 
@@ -63,7 +67,8 @@ you are done with your submission.
 
 - Student 2’s note:
 
-- Student 3’s note:
+- Eitan’s note: I did git push to push those changes to the remote
+  server. No credential challenge was experienced.
 
 - Student 4’s note:
 
@@ -73,7 +78,8 @@ you are done with your submission.
 
 - Student 2’s note:
 
-- Student 3’s note:
+- Eitan’s note: I went to my browser and checked github and saw that the
+  changes were propagated to the repository.
 
 - Student 4’s note:
 
@@ -83,6 +89,6 @@ you are done with your submission.
 
 - Student 2’s note:
 
-- Student 3’s note:
+- Eitan’s note: Cleaning up the repo on my local machine was no issue.
 
 - Student 4’s note:
