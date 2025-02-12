@@ -1,5 +1,4 @@
 
-
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
 # Lab report \#1
@@ -22,7 +21,7 @@ you are done with your submission.
 
 - Student 1’s note:
 
-- Student 2’s note: This is a line from RStudio
+- Student 2’s note:
 
 - Eitan’s note: I have a github account and was able to connect to
   github.
