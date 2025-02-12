@@ -19,7 +19,7 @@ you are done with your submission.
 
 **Step 12.1**
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
@@ -29,7 +29,7 @@ you are done with your submission.
 
 **Step 12.2**
 
-- Student 1’s note:
+- Devon’s note: No notable errors
 
 - Student 2’s note:
 
@@ -39,7 +39,7 @@ you are done with your submission.
 
 **Step 12.3**
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
@@ -49,7 +49,7 @@ you are done with your submission.
 
 **Step 12.4**
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
@@ -59,7 +59,7 @@ you are done with your submission.
 
 **Step 12.5**
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
@@ -69,7 +69,7 @@ you are done with your submission.
 
 **Step 12.6**
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
@@ -79,7 +79,7 @@ you are done with your submission.
 
 **Step 12.7**
 
-- Student 1’s note:
+- Devon’s note: No notable errors.
 
 - Student 2’s note:
 
