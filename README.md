@@ -27,7 +27,7 @@ you are done with your submission.
 - Eitan’s note: I have a github account and was able to connect to
   github.
 
-- Student 4’s note:
+- Sofi's note: I connected to github (already had an account)
 
 <span style="font-size: 24px;">**Step 12.2**</span>
 
@@ -38,7 +38,7 @@ you are done with your submission.
 
 - Eitan’s note: I was able to create the repo on github without issue.
 
-- Student 4’s note:
+- Sofi's note: Connected to the repo
 
 <span style="font-size: 24px;">**Step 12.3**</span>
 
@@ -52,7 +52,7 @@ you are done with your submission.
 - Eitan’s note: I cloned the team repository onto my local machine
   inside a DS_202 folder.
 
-- Student 4’s note:
+- Sofi's note: Repo is cloned in my ds202 folder
 
 <span style="font-size: 24px;">**Step 12.4**</span>
 
@@ -67,7 +67,7 @@ you are done with your submission.
   . to stage those changes to be committed. Then I did git commit -a to
   commit all staged changes.
 
-- Student 4’s note:
+- Sofi's note: Made changes to the file and then committed
 
 <span style="font-size: 24px;">**Step 12.5**</span>
 
@@ -82,7 +82,7 @@ you are done with your submission.
 - Eitan’s note: I did git push to push those changes to the remote
   server. No credential challenge was experienced.
 
-- Student 4’s note:
+- Sofi's note: No issues pushing
 
 <span style="font-size: 24px;">**Step 12.6**</span>
 
