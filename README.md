@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yvH536po)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,73 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+**Step 12.1**
+
+- Student 1’s note:
+
+- Student 2’s note:
+
+- Student 3’s note:
+
+- Student 4’s note:
+
+**Step 12.2**
+
+- Student 1’s note:
+
+- Student 2’s note:
+
+- Student 3’s note:
+
+- Student 4’s note:
+
+**Step 12.3**
+
+- Student 1’s note:
+
+- Student 2’s note:
+
+- Student 3’s note:
+
+- Student 4’s note:
+
+**Step 12.4**
+
+- Student 1’s note:
+
+- Student 2’s note:
+
+- Student 3’s note:
+
+- Student 4’s note:
+
+**Step 12.5**
+
+- Student 1’s note:
+
+- Student 2’s note:
+
+- Student 3’s note:
+
+- Student 4’s note:
+
+**Step 12.6**
+
+- Student 1’s note:
+
+- Student 2’s note:
+
+- Student 3’s note:
+
+- Student 4’s note:
+
+**Step 12.7**
+
+- Student 1’s note:
+
+- Student 2’s note:
+
+- Student 3’s note:
+
+- Student 4’s note:
