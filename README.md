@@ -17,30 +17,30 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-<span style="font-size: 24px;">**Step 12.1**</span>
+**Step 12.1**
 
 - Devon’s note: No notable errors.
 
-- Lucas’s note:The process was straightforward due to previous
+- Lucas’s note: The process was straightforward due to previous
   familiarity with Git.
 
-- Eitan’s note: I have a github account and was able to connect to
-  github.
+- Eitan’s note: I have a GitHub account and was able to connect to
+  GitHub.
 
-- Sofi's note: I connected to github (already had an account)
+- Sofi’s note: I connected to GitHub (already had an account).
 
-<span style="font-size: 24px;">**Step 12.2**</span>
+**Step 12.2**
 
-- Devon’s note: No notable errors
+- Devon’s note: No notable errors.
 
 - Lucas’s note: Skipped the creation step since the repository was
   already set up on GitHub.
 
-- Eitan’s note: I was able to create the repo on github without issue.
+- Eitan’s note: I was able to create the repo on GitHub without issue.
 
-- Sofi's note: Connected to the repo
+- Sofi’s note: Connected to the repo.
 
-<span style="font-size: 24px;">**Step 12.3**</span>
+**Step 12.3**
 
 - Devon’s note: No notable errors.
 
@@ -52,9 +52,9 @@ you are done with your submission.
 - Eitan’s note: I cloned the team repository onto my local machine
   inside a DS_202 folder.
 
-- Sofi's note: Repo is cloned in my ds202 folder
+- Sofi’s note: Repo is cloned in my ds202 folder.
 
-<span style="font-size: 24px;">**Step 12.4**</span>
+**Step 12.4**
 
 - Devon’s note: No notable errors.
 
@@ -63,28 +63,28 @@ you are done with your submission.
   README.md file by adding a new line, saved the changes, and committed
   them using RStudio’s Git.
 
-- Eitan’s note: I made local changes to this file and then I did git add
-  . to stage those changes to be committed. Then I did git commit -a to
-  commit all staged changes.
+- Eitan’s note: I made local changes to this file and then I did
+  `git add .` to stage those changes to be committed. Then I did
+  `git commit -a` to commit all staged changes.
 
-- Sofi's note: Made changes to the file and then committed
+- Sofi’s note: Made changes to the file and then committed.
 
-<span style="font-size: 24px;">**Step 12.5**</span>
+**Step 12.5**
 
-- Devon’s note: I had issues since I was signed in to my personal git
-  account. I fixed this by signing in to my school one on git Desktop.
+- Devon’s note: I had issues since I was signed in to my personal Git
+  account. I fixed this by signing in to my school one on Git Desktop.
 
-- Lucas’s note:Pushing the changes to GitHub worked without any issues.
+- Lucas’s note: Pushing the changes to GitHub worked without any issues.
   After committing, I simply clicked the green “Push” button in
   RStudio’s Git pane, and the updates were successfully sent to the
   remote repository.
 
-- Eitan’s note: I did git push to push those changes to the remote
+- Eitan’s note: I did `git push` to push those changes to the remote
   server. No credential challenge was experienced.
 
-- Sofi's note: No issues pushing
+- Sofi’s note: No issues pushing.
 
-<span style="font-size: 24px;">**Step 12.6**</span>
+**Step 12.6**
 
 - Devon’s note: No notable errors.
 
@@ -92,17 +92,17 @@ you are done with your submission.
   refreshed the page. The updated README.md file displayed the new line
   I added from RStudio.
 
-- Eitan’s note: I went to my browser and checked github and saw that the
+- Eitan’s note: I went to my browser and checked GitHub and saw that the
   changes were propagated to the repository.
 
-- Sofi’s note: Browser was updated like on my local machine
+- Sofi’s note: Browser was updated like on my local machine.
 
-<span style="font-size: 24px;">**Step 12.7**</span>
+**Step 12.7**
 
 - Devon’s note: No notable errors.
 
-- Lucas’s note: Nothing done for this step
+- Lucas’s note: Nothing done for this step.
 
 - Eitan’s note: Cleaning up the repo on my local machine was no issue.
 
-- Sofi’s note: No errors
+- Sofi’s note: No errors.

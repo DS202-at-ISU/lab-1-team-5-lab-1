@@ -20,71 +20,70 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 **Step 12.1**
 
-* Student 1's note:
+* Devon’s note: No notable errors.
 
-* Student 2's note:
+* Lucas’s note: The process was straightforward due to previous familiarity with Git.
 
-* Eitan's note: I have a github account and was able to connect to github.
+* Eitan’s note: I have a GitHub account and was able to connect to GitHub.
 
-* Sofi's note: I connected to github (already had an account)
+* Sofi's note: I connected to GitHub (already had an account).
 
 **Step 12.2**
 
-* Student 1's note:
+* Devon’s note: No notable errors.
 
-* Student 2's note:
+* Lucas’s note: Skipped the creation step since the repository was already set up on GitHub.
 
-* Eitan's note: I was able to create the repo on github without issue.
+* Eitan’s note: I was able to create the repo on GitHub without issue.
 
-* Sofi's note: Connected to the repo
+* Sofi's note: Connected to the repo.
 
 **Step 12.3**
 
-* Student 1's note:
+* Devon’s note: No notable errors.
 
-* Student 2's note:
+* Lucas’s note: I used RStudio to clone the existing GitHub repository using the HTTPS URL. In RStudio, I navigated to File > New Project > Version Control > Git, pasted the repository URL, and ensured the project directory name matched the repo name.
 
-* Eitan's note: I cloned the team repository onto my local machine inside a DS_202 folder.
+* Eitan’s note: I cloned the team repository onto my local machine inside a DS_202 folder.
 
-* Sofi's note: Repo is cloned in my ds202 folder
+* Sofi's note: Repo is cloned in my ds202 folder.
 
 **Step 12.4**
 
-* Student 1's note:
+* Devon’s note: No notable errors.
 
-* Student 2's note:
+* Lucas’s note: Everything worked. The only thing I had to do first was pull the latest changes before pushing. After that, I modified the README.md file by adding a new line, saved the changes, and committed them using RStudio’s Git.
 
-* Eitan's note: I made local changes to this file and then I did git add . to stage those changes to be committed. 
-    Then I did git commit -a to commit all staged changes.
+* Eitan’s note: I made local changes to this file and then I did `git add .` to stage those changes to be committed. Then I did `git commit -a` to commit all staged changes.
 
-* Sofi's note: Made changes to the file and then committed
+* Sofi's note: Made changes to the file and then committed.
 
 **Step 12.5**
 
-* Student 1's note:
+* Devon’s note: I had issues since I was signed in to my personal Git account. I fixed this by signing in to my school one on Git Desktop.
 
-* Student 2's note:
+* Lucas’s note: Pushing the changes to GitHub worked without any issues. After committing, I simply clicked the green “Push” button in RStudio’s Git pane, and the updates were successfully sent to the remote repository.
 
-* Eitan's note: I did git push to push those changes to the remote server. No credential challenge was experienced.
+* Eitan’s note: I did `git push` to push those changes to the remote server. No credential challenge was experienced.
 
-* Sofi's note: No issues pushing
+* Sofi's note: No issues pushing.
 
 **Step 12.6**
 
-* Student 1's note:
+* Devon’s note: No notable errors.
 
-* Student 2's note:
+* Lucas’s note: I went back to my repository in the browser and refreshed the page. The updated README.md file displayed the new line I added from RStudio.
 
-* Eitan's note: I went to my browser and checked github and saw that the changes were propagated to the repository.
+* Eitan’s note: I went to my browser and checked GitHub and saw that the changes were propagated to the repository.
 
-* Student 4's note:
+* Sofi’s note: Browser was updated like on my local machine.
 
 **Step 12.7**
 
-* Student 1's note:
+* Devon’s note: No notable errors.
 
-* Student 2's note:
+* Lucas’s note: Nothing done for this step.
 
-* Eitan's note: Cleaning up the repo on my local machine was no issue.
+* Eitan’s note: Cleaning up the repo on my local machine was no issue.
 
-* Student 4's note:
+* Sofi’s note: No errors.
