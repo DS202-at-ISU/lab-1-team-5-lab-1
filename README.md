@@ -95,7 +95,7 @@ you are done with your submission.
 - Eitan’s note: I went to my browser and checked github and saw that the
   changes were propagated to the repository.
 
-- Student 4’s note:
+- Sofi’s note: Browser was updated like on my local machine
 
 <span style="font-size: 24px;">**Step 12.7**</span>
 
@@ -105,4 +105,4 @@ you are done with your submission.
 
 - Eitan’s note: Cleaning up the repo on my local machine was no issue.
 
-- Student 4’s note:
+- Sofi’s note: No errors
